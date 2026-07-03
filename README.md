@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="schoolrship.gif" alt="Scholarship Recommendation System Demo" width="900">
+  <img src="Scholarship.gif" alt="Scholarship Recommendation System Demo" width="900">
 </p>
 ---
 ## 📌 Project Overview
