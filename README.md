@@ -51,7 +51,7 @@ Scholarship-Recommendation-System/
 │
 ├── models/
 │
-├── images/
+├── app.py
 │
 ├── requirements.txt
 ├── README.md
