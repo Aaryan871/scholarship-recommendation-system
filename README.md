@@ -3,7 +3,10 @@
 > An end-to-end Machine Learning project that recommends the most suitable scholarships based on student profiles, eligibility criteria, academic background, and preferences.
 
 ---
-
+<p align="center">
+  <img src="schoolrship.gif" alt="Scholarship Recommendation System Demo" width="900">
+</p>
+---
 ## 📌 Project Overview
 
 Finding the right scholarship can be a time-consuming process due to the large number of available opportunities and varying eligibility requirements. This project simplifies that process by using Machine Learning techniques to recommend scholarships that best match a student's profile.
