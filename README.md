@@ -3,10 +3,9 @@
 > An end-to-end Machine Learning project that recommends the most suitable scholarships based on student profiles, eligibility criteria, academic background, and preferences.
 
 ---
-![Scholarship Recommendation System Demo](Scholarship.gif)
 
 <p align="center">
-  <img src="Scholarship.gif" alt="Scholarship Recommendation System Demo" width="900">
+  <img src="Scholarship.gif" alt="Scholarship" width="900">
 </p>
 
 
