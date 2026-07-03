@@ -139,9 +139,9 @@ This project is licensed under the MIT License.
 
 Data Science Enthusiast | Machine Learning Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Aaryan871
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/aaryan-chauhan-data-scientist/
 
 ---
 
